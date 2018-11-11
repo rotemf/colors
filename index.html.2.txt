@@ -1,0 +1,50 @@
+<!doctype html>
+<html dir=rtl>
+  <head>
+    <title>colors</title>
+    <meta charset="utf-8">
+    <meta property="viewport" content="width=device-width,initial-scale=1">
+    <link rel="icon" href="ye.jpg">
+  </head>
+  <body>
+      <center>
+    <h1>
+        לא נכון!!!
+    </h1>
+
+    <br>
+
+    <h2>
+         איך טעיתם ככה?
+     </h2>
+
+     <br>
+
+     <img src="ro.jpg">
+
+     <br>
+     <br>
+
+     <h2>
+            איזה חיה אתם רואים פה?
+     <br>
+
+     <ul>
+            <a href="2.html">אריה</a>
+            <br>
+            <a href="">ארנב</a>
+
+            
+          </ul>
+        </h2>
+
+
+
+     
+
+
+
+
+  </body>
+</center>
+</html>	
